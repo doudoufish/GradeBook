@@ -63,5 +63,5 @@ Command: O
 Command: Q
 ```
 # referece
-[![csv]([https://visitor-badge.glitch.me/badge?page_id=xfangfang.Macast)](https://github.com/xfangfang/Macast/releases/latest]
-[![csv]([[https://visitor-badge.glitch.me/badge?page_id=xfangfang.Macast)](https://github.com/xfangfang/Macast/releases/latest]
+[![csv]([https://visitor-badge.glitch.me/badge?page_id=xfangfang.Macast)]
+[![csv]([[https://visitor-badge.glitch.me/badge?page_id=xfangfang.Macast)]
