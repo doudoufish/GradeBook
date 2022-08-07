@@ -4,6 +4,7 @@ This project is to develop a program using Python to automate the instructor's g
 # Step 1:
 Run the Program
 ```
+cd gradebook
 python gradebookapp.py
 ```
 
@@ -61,3 +62,6 @@ Command: O
 ```
 Command: Q
 ```
+# referece
+https://docs.python.org/3/library/csv.html
+https://docs.python.org/3/library/pathlib.html
