@@ -51,7 +51,7 @@ class GradebookApp:
             print("a valid number")
             policy = [int(item) for item in input("Enter the percentage of the assignment,test,exam split with space(the sum of percentage should be 100) ").split()]
         self.__policy = policy
-        f_path  = './gradebook'
+        f_path  = './'
         f_name = "policy.txt"
         c_name = os.path.join(f_path,f_name)
         f = open(c_name,'w')
@@ -77,7 +77,7 @@ class GradebookApp:
     def recordAssignmentScore(self):
         if self.__numberOfWork[0] == 0:
             print("There is no assignment in this semester")
-        else:
+        elif self.__numberOfWork[0] > 0:
             numberOfWork = self.__numberOfWork[0]
             for x in range(numberOfWork):
                 for student in self.__student:
@@ -89,7 +89,7 @@ class GradebookApp:
     def recordTestScore(self):
         if self.__numberOfWork[1] == 0:
             print("There is no Test in this semester")
-        else:
+        elif self.__numberOfWork[1] > 0:
             numberOfWork = self.__numberOfWork[1]
             for x in range(numberOfWork):
                 for student in self.__student:
@@ -101,7 +101,7 @@ class GradebookApp:
     def recordExamScore(self):
         if self.__numberOfWork[2] == 0:
             print("There is no Exam in this semester")
-        else:
+        elif self.__numberOfWork[2] > 0:
             numberOfWork = self.__numberOfWork[2]
             for x in range(numberOfWork):
                 for student in self.__student:
@@ -147,7 +147,7 @@ class GradebookApp:
      
         self.__student = sorted(sorted(self.__student, key=lambda x:x.id),key = lambda x:x.name, reverse=False)
         
-        f_path  = './gradebook'
+        f_path  = './'
         f_name = "grades.out"
         c_name = os.path.join(f_path,f_name)
         f = open(c_name,'w')

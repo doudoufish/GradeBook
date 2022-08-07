@@ -1,8 +1,8 @@
 The school Policy:
 In this semester: 
-There are 2 assignment
+There are 1 assignment
 There are 1 test
 There are 1 exam
 The percentage of the assignment is: 10
-The percentage of the Test is: 30
-The percentage of the Exam is: 60
+The percentage of the Test is: 10
+The percentage of the Exam is: 80

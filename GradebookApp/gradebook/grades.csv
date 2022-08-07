@@ -1,16 +1,20 @@
-student,1,Kim ben
-assiScores,Kim ben,"[0, 11.0]"
-testScores,Kim ben,[20.0]
-examScores,Kim ben,[20.0]
-finalScores,Kim ben,19.1
-student,2,Peng Lin
-assiScores,Peng Lin,"[0, 12.0]"
-testScores,Peng Lin,[20.0]
-examScores,Peng Lin,[20.0]
-finalScores,Peng Lin,19.2
-student,3,Rube Ken
-assiScores,Rube Ken,"[0, 13.0]"
-testScores,Rube Ken,[20.0]
-examScores,Rube Ken,[20.0]
-finalScores,Rube Ken,19.3
-
+student,2,A
+assiScores,A,[10.0]
+testScores,A,"[10.0, 0]"
+examScores,A,[10.0]
+finalScores,A,10.0
+student,1,Kim Line
+assiScores,Kim Line,[20.0]
+testScores,Kim Line,"[20.0, 0]"
+examScores,Kim Line,[10.0]
+finalScores,Kim Line,15.0
+student,1,Q
+assiScores,Q,[9.0]
+testScores,Q,"[9.0, 0]"
+examScores,Q,[9.0]
+finalScores,Q,9.0
+student,1,Q
+assiScores,Q,[9.0]
+testScores,Q,"[9.0, 0]"
+examScores,Q,[9.0]
+finalScores,Q,9.0
