@@ -1,0 +1,16 @@
+student,1,Kim ben
+assiScores,Kim ben,"[0, 11.0]"
+testScores,Kim ben,[20.0]
+examScores,Kim ben,[20.0]
+finalScores,Kim ben,19.1
+student,2,Peng Lin
+assiScores,Peng Lin,"[0, 12.0]"
+testScores,Peng Lin,[20.0]
+examScores,Peng Lin,[20.0]
+finalScores,Peng Lin,19.2
+student,3,Rube Ken
+assiScores,Rube Ken,"[0, 13.0]"
+testScores,Rube Ken,[20.0]
+examScores,Rube Ken,[20.0]
+finalScores,Rube Ken,19.3
+
